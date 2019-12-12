@@ -465,7 +465,7 @@ def grupsaya():
 		raw_input("\n\033[1;96m[\033[1;97mKembali\033[1;96m]")
 		menu()
 	except requests.exceptions.ConnectionError:
-		print"\033[1;96m[✖] \x1b[1;91mNo connection
+		print"\033[1;96m[✖] \x1b[1;91mNo connection"
 		keluar()
 	except IOError:
 		print "\033[1;96m[!] \x1b[1;91mError"
