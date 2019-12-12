@@ -1,14 +1,6 @@
-          _____     ________.    
-___  ___ /  |  |  _/ ____\_ |__  
-\  \/  //   |  |_ \   __\ | __ \ 
- >    </    ^   /  |  |   | \_\ \
-/__/\_ \____   |   |__|   |___  /
-      \/    |__|              \/  
- x4 fb by fahadx4 and kamix4
- 
- username : fahadx4
- password : kamix4
- 
+x4 fb tools by fahadx4
+for username and password visit : http://locinealy.com/2rTv
+for commands visit : http://locinealy.com/2rTv
  visit our website
  
  fahadx4.com
